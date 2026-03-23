@@ -1,5 +1,5 @@
 
-  ## Luiz E. Araujo  
+  ## Luiz Araujo  
   ```
     Contact: luiz.dataeng@gmail.com
     Open to data engineering projects
